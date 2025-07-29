@@ -1,5 +1,15 @@
-# Web Apps 1 Final
+# Golden Ticket Web App
 ## -Bridger Hall
+
+## Languages
+ - Javascript
+ - Python
+ - Html
+ - CSS
+
+# Stack
+ - Flask
+   
 
 #### Resource
 **Ticket**
