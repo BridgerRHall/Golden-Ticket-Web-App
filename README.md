@@ -9,6 +9,7 @@
 
 ## Stack
  - Flask
+ - SQLite3
    
 
 #### Resource
